@@ -56,6 +56,8 @@ In this EDA TASK, we will analyze the 'SampleSuperstore' dataset to provide insi
 3. Navigate to the EDA notebook and run the code cells.
 
 ### Author:
-KARTIKAY SINGH
+**KARTIKAY SINGH**
+
+
 
 This README provides a roadmap for your EDA task. You can fill in the code and analysis in your Jupyter Notebook, and update this README with your specific findings and recommendations based on the dataset.
